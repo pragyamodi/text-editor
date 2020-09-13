@@ -1,0 +1,15 @@
+.container {
+  position: relative;
+}
+
+.rulerContainer {
+  height: 24px;
+  border: 1px solid gray;
+  padding: 4px;
+}
+
+.markerContainer {
+  position: absolute;
+  top: 0px;
+  left: 20px;
+}
